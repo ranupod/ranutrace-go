@@ -1,4 +1,4 @@
-module github.com/ranupod/ranupod-go
+module github.com/ranupod/ranutrace-go
 
 go 1.26.0
 

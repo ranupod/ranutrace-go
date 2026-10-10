@@ -1,4 +1,4 @@
-# ranupod-go
+# ranutrace-go
 
 Official RanuPod Go Tracer and Zero-Config APM SDK.
 
@@ -11,7 +11,7 @@ Official RanuPod Go Tracer and Zero-Config APM SDK.
 
 ### 1. Installation
 ```bash
-go get github.com/ranupod/ranupod-go
+go get github.com/ranupod/ranutrace-go
 ```
 
 ### 2. Usage in `main.go`
@@ -20,7 +20,7 @@ package main
 
 import (
     "net/http"
-    "github.com/ranupod/ranupod-go"
+    "github.com/ranupod/ranutrace-go"
 )
 
 func main() {
